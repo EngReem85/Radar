@@ -1,0 +1,5 @@
+In a world where technological advancements are increasing, surveillance and security systems have become essential for individuals and organizations. However, many entities face financial challenges in implementing advanced visual camera-based surveillance systems. Arduino technology is one of the popular technologies used in various electronic and robotic projects. Arduino provides a powerful open-source platform that allows users to create innovative systems using a variety of devices and sensors.
+
+This project offers an innovative and cost-effective solution for security monitoring without any video features. This device senses objects with the help of an ultrasonic wave sensor, allowing it to operate even during nighttime.
+
+By leveraging Arduino's capabilities and the processing power of an Android device, this radar system can detect objects and measure their distances accurately. It provides a low-cost alternative to traditional visual surveillance systems, making it an attractive option for individuals and organizations with limited financial resources.
