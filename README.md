@@ -12,7 +12,7 @@ This project offers an **innovative and cost-effective solution** for security m
 
 ##  Project Screenshot
 
-![Radar System Screenshot](Screenshot%202026-05-10%20084934.png)
+![Radar System Screenshot](https://github.com/EngReem85/Radar/blob/main/Picture1.jpg)
 
 *The radar interface displaying detected objects with distance measurements.*
 
