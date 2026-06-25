@@ -10,6 +10,12 @@ In a world where technological advancements are increasing, surveillance and sec
 
 This project offers an **innovative and cost-effective solution** for security monitoring without any video features. The system uses **Arduino** technology and an **ultrasonic wave sensor** to detect objects, allowing it to operate effectively even during nighttime.
 
+##  Project Screenshot
+
+![Radar System Screenshot](Screenshot%202026-05-10%20084934.png)
+
+*The radar interface displaying detected objects with distance measurements.*
+
 ##  Key Features
 
 - **Low Cost**: An economical alternative to traditional visual surveillance systems
@@ -61,7 +67,7 @@ Radar/
 3. The **servo motor** rotates to a specific angle for each reading.
 4. The **Processing application** draws a radar map showing detected objects.
 
-##  Potential Applications
+## Potential Applications
 
 - Low-cost home surveillance systems
 - Alert systems for hazardous areas
@@ -73,3 +79,4 @@ Radar/
 **Note**: This project is provided for educational and developmental purposes. Please use it in a legal and ethical manner.
 
 ⭐ Don't forget to star this project if you find it useful!
+```
