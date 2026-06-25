@@ -41,7 +41,7 @@ Radar/
 ├── zealotbt/           # Additional project files
 ├── code.txt            # Main Arduino code
 ├── README.md           # Documentation file
-└── Screenshot 2026-05-10 084934.png  # System screenshot
+└── Picture1.jpg  # System screenshot
 ```
 
 ##  Getting Started
@@ -79,4 +79,4 @@ Radar/
 **Note**: This project is provided for educational and developmental purposes. Please use it in a legal and ethical manner.
 
 ⭐ Don't forget to star this project if you find it useful!
-```
+
